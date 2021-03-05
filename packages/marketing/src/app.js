@@ -7,7 +7,7 @@ import Pricing from './components/Pricing'
 
 const App = () => {
   return (
-    <div>
+    <div className="marketing">
       <StylesProvider>
         <BrowserRouter>
           <Switch>
